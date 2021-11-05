@@ -20,7 +20,7 @@ title                    : "Preprojective algebras and Calabi-Yau algebras 2022"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Organizers"
-description              : "Online workshop on Preprojective algebras and Calabi-Yau algebras."
+description              : "Online school on Preprojective algebras and Calabi-Yau algebras."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,8 +57,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,8 +103,8 @@ analytics:
 author:
   name             : "Organizers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : 
+  location         : 
   email            :
   links:
     - label: "Email"
@@ -293,4 +292,3 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true

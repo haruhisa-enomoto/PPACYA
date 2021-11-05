@@ -1,14 +1,18 @@
 ---
 permalink: /
 layout: single
-sidebar:
-  nav: "main"
 ---
 
-# About this conference
-test.
+Venue: Zoom
+Date: March 1 (Tue)-4 (Fri) 2022
 
 ## Support
-supported by Osaka City University Advanced Mathematical Institute (MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics).
+Osaka City University Advanced Mathematical Institute (MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics).
 
 ## Organizers
+
+- Yuya Mizuno
+- Yoshiyuki Kimura
+- Toshiya Yurikusa
+- Haruhisa Enomoto
+- Masato Okado

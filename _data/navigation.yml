@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "Program"
-    url: /lorem-ipsum/
+    url: /program/
   - title: "Abstracts"
-    url: /page-a/
+    url: /abstracts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

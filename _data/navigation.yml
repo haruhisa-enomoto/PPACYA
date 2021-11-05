@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Program"
-    url: /test/
+    url: /lorem-ipsum/
+  - title: "Abstracts"
+    url: /page-a/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

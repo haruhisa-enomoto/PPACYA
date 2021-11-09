@@ -1,18 +1,24 @@
 ---
 permalink: /
 layout: single
+date: 2021-11-09
 ---
 
-Venue: Zoom
-Date: March 1 (Tue)-4 (Fri) 2022
+## Online School "Preprojective Algebras and Calabi-Yau Algebras"
+
+- Venue: Zoom
+- Date: March 1 (Tue)-4 (Fri) 2022
+
+### Speakers
+TBA.
 
 ## Support
-Osaka City University Advanced Mathematical Institute (MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics).
+Osaka City University Advanced Mathematical Institute ([MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics JPMXP0619217849](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage_e.html)).
 
 ## Organizers
 
-- Yuya Mizuno
-- Yoshiyuki Kimura
-- Toshiya Yurikusa
-- Haruhisa Enomoto
-- Masato Okado
+- [Haruhisa Enomoto](https://haruhisa-enomoto.github.io/)
+- [Yoshiyuki Kimura](https://researchmap.jp/ysykmr?lang=en)
+- [Yuya Mizuno](https://researchmap.jp/y-mizuno?lang=en)
+- [Masato Okado](http://www.sci.osaka-cu.ac.jp/~okado/index-e.html)
+- [Toshiya Yurikusa](https://sites.google.com/view/toshiya-yurikusa)

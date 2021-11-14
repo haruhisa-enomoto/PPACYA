@@ -2,11 +2,7 @@
 permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
-classes: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/rigakubu.png
+classes: wide
 date: 2021-11-11
 ---
 

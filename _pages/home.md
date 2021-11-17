@@ -3,7 +3,7 @@ permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
 classes: wide
-date: 2021-11-11
+date: 2021-11-17
 ---
 
 The online school on preprojective algebras and Calabi-Yau algebras.
@@ -14,7 +14,7 @@ The online school on preprojective algebras and Calabi-Yau algebras.
 ### Lecturers
 - Anne Dranowski (University of Southern California)
 - [Bernard Leclerc](https://leclercb.users.lmno.cnrs.fr/) (Université de Caen Normandie)
-- [Matthew Pressland](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Pressland/) (University of Leeds)
+- [Matthew Pressland](http://www1.maths.leeds.ac.uk/~pmtmp/) (University of Leeds)
 
 ### Speakers
 TBA

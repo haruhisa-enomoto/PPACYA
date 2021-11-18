@@ -5,8 +5,11 @@ layout: single
 date: 2021-11-18
 ---
 
-- Venue: Zoom
-- Date: March 1-4, 2022
+Online school on preprojective algebras and Calabi-Yau algebras.
+
+**Venue**: Zoom  
+**Date**: March 1-4, 2022
+{: .notice--info}
 
 ### Aim
 

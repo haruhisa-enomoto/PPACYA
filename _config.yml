@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Preprojective algebras and Calabi-Yau algebras"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Online school" # site tagline that appears below site title in masthead
 name                     : "Organizers"
 description              : "Online school on preprojective algebras and Calabi-Yau algebras"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -294,4 +294,4 @@ defaults:
       layout: single
       header:
         overlay_image: https://cdn.discordapp.com/attachments/524877289213788171/910770507270471720/unknown.png
-        overlay_filter: 0.5
+        overlay_filter: 0.3

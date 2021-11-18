@@ -3,19 +3,20 @@ permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
 date: 2021-11-18
+toc: true
 ---
 
-Online school on preprojective algebras and Calabi-Yau algebras.
+*Online school on preprojective algebras and Calabi-Yau algebras.*
 
-**Venue**: Zoom  
-**Date**: March 1-4, 2022
-{: .notice--info}
+### Information 
+
+- **Venue**: Zoom  
+- **Date**: March 1-4, 2022
+
 
 ### Aim
 
 The aim of this online school is to understand the representation theory of preprojective algebras and Calabi-Yau algebras and the connection between related combinatorics, geometry and integrable systems. Preprojective algebras are algebras determined by a quiver, which are not only important in their representation theory but are also fundamental objects used in the Lusztig and Nakajima quiver varieties and they have connection between representation theory of Lie algebras and quantum groups.
-The online school on preprojective algebras and Calabi-Yau algebras.
-
 
 ### Lecturers
 - [Anne Dranowski](http://annedranowski.surge.sh/) (University of Southern California)

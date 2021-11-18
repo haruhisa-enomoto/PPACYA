@@ -1,7 +1,7 @@
 ---
 title: "Registration"
 permalink: /registration/
-date: now
+date: 2021-11-09
 ---
 
 TBA.

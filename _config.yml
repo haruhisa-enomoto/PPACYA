@@ -292,7 +292,6 @@ defaults:
       type: pages
     values:
       layout: single
-      date: now
       header:
         overlay_image: https://cdn.discordapp.com/attachments/524877289213788171/910770507270471720/unknown.png
         overlay_filter: 0.6

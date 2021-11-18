@@ -1,6 +1,7 @@
 ---
 title: "Program"
 permalink: /program/
+date: now
 ---
 
 - **Venue**: Zoom

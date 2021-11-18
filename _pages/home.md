@@ -3,6 +3,7 @@ permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
 toc: false
+date: now
 ---
 
 *Online school on preprojective algebras and Calabi-Yau algebras.*

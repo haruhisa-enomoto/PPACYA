@@ -2,6 +2,7 @@
 permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
+classes: wide
 toc: false
 date: now
 ---

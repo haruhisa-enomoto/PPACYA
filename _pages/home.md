@@ -3,7 +3,7 @@ permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
 classes: wide
-date: 2021-11-17
+date: 2021-11-18
 ---
 
 ### Aim

@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Preprojective algebras and Calabi-Yau algebras"
 title_separator          : "-"
-subtitle                 : "Online school" # site tagline that appears below site title in masthead
+subtitle                 : "Online School" # site tagline that appears below site title in masthead
 name                     : "Organizers"
 description              : "Online school on preprojective algebras and Calabi-Yau algebras"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

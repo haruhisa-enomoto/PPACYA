@@ -2,12 +2,11 @@
 permalink: /
 title: "Preprojective Algebras and Calabi-Yau Algebras"
 layout: single
+excerpt: "Online school on preprojective algebras and Calabi-Yau algebras, March 1-4, 2022"
 classes: wide
 toc: false
 date: now
 ---
-
-*Online school on preprojective algebras and Calabi-Yau algebras.*
 
 ## Information 
 

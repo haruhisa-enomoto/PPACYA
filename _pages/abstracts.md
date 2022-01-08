@@ -2,6 +2,7 @@
 title: "Abstracts"
 permalink: /abstracts/
 date: now
+classes: wide
 ---
 
 ## Matthew Pressland

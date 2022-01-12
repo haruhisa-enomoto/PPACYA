@@ -4,6 +4,7 @@ permalink: /abstracts/
 date: now
 classes: wide
 toc: true
+toc_label: "Abstracts"
 ---
 
 ## Bernard Leclerc

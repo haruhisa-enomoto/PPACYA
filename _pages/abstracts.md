@@ -22,12 +22,12 @@ In these lectures we will begin by reviewing the classical results on tableaux a
 - Hong, J., & Kang, S. J. (2002). Introduction to quantum groups and crystal bases (Vol. 42). American Mathematical Soc..
 - Nakajima, H. (2001). Quiver varieties and tensor products. Inventiones mathematicae, 146(2), 399-449.
 - Ram, A. (2015). The glass bead game. BrisScience series at The EDGE.
-- Ram, A., & Kleshchev, A. S. (2010). Homogeneous representations of Khovanov?Lauda algebras. Journal of the European Mathematical Society, 12(5), 1293-1306.
+- Ram, A., & Kleshchev, A. S. (2010). Homogeneous representations of Khovanov-Lauda algebras. Journal of the European Mathematical Society, 12(5), 1293-1306.
 - Saito, Y. (2002). Crystal bases and quiver varieties. Mathematische Annalen, 324(4), 675-688.
 - Savage, A. (2010). Lectures on geometric realizations of crystals. arXiv preprint arXiv:1003.5019.
 - Savage, A., & Tingley, P. (2011). Quiver grassmannians, quiver varieties and the preprojective algebra. Pacific journal of mathematics, 251(2), 393-429.
 - Stembridge, J. R. (2001). Minuscule elements of Weyl groups. Journal of Algebra, 235(2), 722-743.
-- Tingley, P. (2008). Three combinatorial models for ?sln crystals, with applications to cylindric plane partitions. International Mathematics Research Notices, 2008.
+- Tingley, P. (2008). Three combinatorial models for $\widehat{\mathrm{sl}}_n$ crystals, with applications to cylindric plane partitions. International Mathematics Research Notices, 2008.
 
 ## Bernard Leclerc
 

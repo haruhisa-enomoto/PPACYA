@@ -10,7 +10,6 @@ classes: wide
 
 ## Time Table
 
-<div align="center">
 
 |Japan time (GMT +9)| March 1st | March 2nd | March 3rd | March 4th |
 |---|---|---|---|---|
@@ -20,5 +19,3 @@ classes: wide
 | 17:30 - 18:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
 | 18:30 - 19:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
 {:.table-striped}
-
-</div>

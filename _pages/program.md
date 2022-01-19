@@ -2,7 +2,6 @@
 title: "Program"
 permalink: /program/
 date: now
-classes: wide
 ---
 
 - **Venue**: Zoom
@@ -18,4 +17,10 @@ classes: wide
 | | (break) | (break) | (break) | (break) |
 | 17:30 - 18:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
 | 18:30 - 19:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
-{:.table-bordered .align-center}
+{:.table-bordered}
+
+## Program
+
+- Matthew Pressland, [**Dimer models: consistency, Calabi–Yau properties and categorification**](/ppacya/abstracts/#matthew-pressland)
+- Anne Dranowski, [**Crystals and Preprojective Algebra Modules**](/ppacya/abstracts/#anne-dranowski)
+- Bernard Leclerc, [**Generalized preprojective algebras**](/ppacya/abstracts/#bernard-leclerc)

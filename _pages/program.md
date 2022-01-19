@@ -10,10 +10,15 @@ classes: wide
 
 ## Time Table
 
+<div align="center">
+
 |Japan time (GMT +9)| March 1st | March 2nd | March 3rd | March 4th |
 |---|---|---|---|---|
-| 10:00 - 11:00 |  | [Dranowski](/abstracts/#anne-dranowski) | [Dranowski](/abstracts/#anne-dranowski) | [Dranowski](/abstracts/#anne-dranowski) |
-| 11:20 - 12:20  |  | [Dranowski]((/abstracts/#anne-dranowski)) | (TBA) | (TBA) |
+| 10:00 - 11:00 |  | [Dranowski](/ppacya/abstracts/#anne-dranowski) | [Dranowski](ppacya/abstracts/#anne-dranowski) | [Dranowski](/ppacya/abstracts/#anne-dranowski) |
+| 11:20 - 12:20  |  | [Dranowski]((/ppacya/abstracts/#anne-dranowski)) | (TBA) | (TBA) |
 | | (break) | (break) | (break) | (break) |
-| 17:30 - 18:20 | [Pressland](/abstracts/#matthew-pressland) | [Leclerc](/abstracts/#bernard-leclerc) | [Pressland](/abstracts/#matthew-pressland) | [Leclerc](/abstracts/#bernard-leclerc)
-| 18:30 - 19:20 | [Pressland](/abstracts/#matthew-pressland) | [Leclerc](/abstracts/#bernard-leclerc) | [Pressland](/abstracts/#matthew-pressland) | [Leclerc](/abstracts/#bernard-leclerc)
+| 17:30 - 18:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
+| 18:30 - 19:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
+{:.table-striped}
+
+</div>

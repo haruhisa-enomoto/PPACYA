@@ -18,4 +18,4 @@ classes: wide
 | | (break) | (break) | (break) | (break) |
 | 17:30 - 18:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
 | 18:30 - 19:20 | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc) | [Pressland](/ppacya/abstracts/#matthew-pressland) | [Leclerc](/ppacya/abstracts/#bernard-leclerc)
-{:.table-striped}
+{:.table-bordered .align-center}

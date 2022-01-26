@@ -24,7 +24,7 @@ the representation theory of preprojective algebras and Calabi-Yau algebras and 
 ### Lecturers
 - [Anne Dranowski](http://annedranowski.surge.sh/) (University of Southern California)
 - [Bernard Leclerc](https://leclercb.users.lmno.cnrs.fr/) (Université de Caen Normandie)
-- [Matthew Pressland](http://www1.maths.leeds.ac.uk/~pmtmp/) (University of Leeds)
+- [Matthew Pressland](https://mdpressland.github.io/) (University of Glasgow)
 
 ### Speakers
 TBA

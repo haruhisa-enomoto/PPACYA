@@ -27,7 +27,8 @@ the representation theory of preprojective algebras and Calabi-Yau algebras and 
 - [Matthew Pressland](https://mdpressland.github.io/) (University of Glasgow)
 
 ### Speakers
-TBA
+- [Akishi Ikeda](https://researcher.josai.ac.jp/html/100000711_en.html) (Josai UniversityFaculty of Science)
+- [Kota Murakami](https://www.math.kyoto-u.ac.jp/en/people/profile/k-murakami) (Kyoto University)
 
 ## Support
 Osaka City University Advanced Mathematical Institute ([MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics JPMXP0619217849](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage_e.html)).

@@ -2,6 +2,7 @@
 title: "Registration"
 permalink: /registration/
 date: now
+classes: wide
 ---
 
 Please register via the following link:

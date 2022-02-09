@@ -69,3 +69,8 @@ A dimer model is a bipartite graph drawn in a surface. First introduced in the c
 - M. Pressland: Internally Calabi–Yau algebras and cluster-tilting objects, Math. Z. 287 (2017), pp. 555–585
 - J.S. Scott: Grassmannians and cluster algebras, Proc. London Math. Soc. 92 (2006), pp. 345–380.
 
+# Speakers
+
+## Kota Murakami
+E.Frenkel-Reshetikhin introduced a kind of quantization of the Cartan matrix, called the $(q, t)$-deformed Cartan matrix, which characterizes some aspects of the representation theory of affine quantum groups and deformed W-algebras with their specializations.
+In this talk, we will interpret the $(q, t)$-deformed Cartan matrix as an invariant from the representation theory of a bigraded version of the generalized preprojective algebra introduced by Geiss-Leclerc-Schröer.  In particular, we will interpret several numerical properties of the $(q, t)$-deformed Cartan matrix as homological properties from the representation theory of the generalized preprojective algebra. This talk is based on a joint work with Ryo Fujita.

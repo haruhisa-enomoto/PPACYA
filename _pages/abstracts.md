@@ -71,6 +71,9 @@ A dimer model is a bipartite graph drawn in a surface. First introduced in the c
 
 # Speakers
 
+## Akishi Ikeda
+**Calabi-Yau algebras and canonical bundles**
+
 ## Kota Murakami
 
 **Deformed Cartan matrices and generalized preprojective algebras**

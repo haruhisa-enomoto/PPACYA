@@ -72,7 +72,14 @@ A dimer model is a bipartite graph drawn in a surface. First introduced in the c
 # Speakers
 
 ## Akishi Ikeda
+
 **Calabi-Yau algebras and canonical bundles**
+
+In this talk, we explore common features of Calabi-Yau algebras in representation theory and Calabi-Yau manifolds in geometry.
+First we see the role of inverse dualizing complexes in both sides and recall
+why Calabi-Yau algebras are called "Calabi-Yau" algebras.
+Next we see that the Calabi-Yau completions (derived preprojective algebras) can be interpreted asthe total spaces of canonical bundles of smooth varieties.
+If time permits, I explain the relationship between double gradings of Calabi-Yau completions and weights of torus actions on canonical bundles. This is a joint work with Yu Qiu. 
 
 ## Kota Murakami
 

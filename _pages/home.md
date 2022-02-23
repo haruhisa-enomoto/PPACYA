@@ -22,7 +22,7 @@ The purpose of this workshop is to bring together researchers focusing on
 the representation theory of preprojective algebras and Calabi-Yau algebras and the connection between related combinatorics, geometry and integrable systems.
 
 ### Lecturers
-- [Anne Dranowski](http://annedranowski.surge.sh/) (University of Southern California)
+- [Anne Dranowski](https://anne.onrender.com/) (University of Southern California)
 - [Bernard Leclerc](https://leclercb.users.lmno.cnrs.fr/) (Université de Caen Normandie)
 - [Matthew Pressland](https://mdpressland.github.io/) (University of Glasgow)
 

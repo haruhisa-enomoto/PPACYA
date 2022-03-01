@@ -22,7 +22,7 @@ date: now
 ## Program and Slides
 
 - Matthew Pressland, [**Dimer models: consistency, Calabi–Yau properties and categorification**](/ppacya/abstracts/#matthew-pressland)
-  - [Slide](/ppacya/files/Pressland-2022-03-01.pdf)
+  - [Slide](/ppacya/slides/Pressland-2022-03-01.pdf)
 
 - Anne Dranowski, [**Crystals and Preprojective Algebra Modules**](/ppacya/abstracts/#anne-dranowski)
 

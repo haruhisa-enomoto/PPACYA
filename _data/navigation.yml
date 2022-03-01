@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Program"
+  - title: "Program & Slides"
     url: /program/
   - title: "Abstracts"
     url: /abstracts/

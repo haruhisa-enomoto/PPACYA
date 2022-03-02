@@ -24,6 +24,7 @@ date: now
 - Matthew Pressland, [**Dimer models: consistency, Calabi–Yau properties and categorification**](/ppacya/abstracts/#matthew-pressland)
   - [Slide](/ppacya/slides/Pressland-2022-03-01.pdf)
 - Anne Dranowski, [**Crystals and Preprojective Algebra Modules**](/ppacya/abstracts/#anne-dranowski)
+  - [Slide 1](/ppacya/slides/Dranowski-2022-03-02.pdf)
 - Bernard Leclerc, [**Generalized preprojective algebras**](/ppacya/abstracts/#bernard-leclerc)
 - Akishi Ikeda, [**Calabi-Yau algebras and canonical bundles**](/ppacya/abstracts/#akishi-ikeda)
 - Kota Murakami, [**Deformed Cartan matrices and generalized preprojective algebras**](/ppacya/abstracts/#kota-murakami)

@@ -28,4 +28,5 @@ date: now
 - Bernard Leclerc, [**Generalized preprojective algebras**](/ppacya/abstracts/#bernard-leclerc)
   - [Slide 1](/ppacya/slides/Leclerc-2022-03-02.pdf)
 - Akishi Ikeda, [**Calabi-Yau algebras and canonical bundles**](/ppacya/abstracts/#akishi-ikeda)
+  - [Slide](/ppacya/slides/Ikeda-2022-03-03.pdf)
 - Kota Murakami, [**Deformed Cartan matrices and generalized preprojective algebras**](/ppacya/abstracts/#kota-murakami)

@@ -30,3 +30,4 @@ date: now
 - Akishi Ikeda, [**Calabi-Yau algebras and canonical bundles**](/ppacya/abstracts/#akishi-ikeda)
   - [Slide](/ppacya/slides/Ikeda-2022-03-03.pdf)
 - Kota Murakami, [**Deformed Cartan matrices and generalized preprojective algebras**](/ppacya/abstracts/#kota-murakami)
+  - [Slide](/ppacya/slides/Murakami-2022-03-04.pdf)

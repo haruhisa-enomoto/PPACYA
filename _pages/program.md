@@ -26,7 +26,7 @@ date: now
 - Anne Dranowski, [**Crystals and Preprojective Algebra Modules**](/ppacya/abstracts/#anne-dranowski)
   - [Slide 1](/ppacya/slides/Dranowski-2022-03-02.pdf), [Slide 2](/ppacya/slides/Dranowski-2022-03-03.pdf), [Slide 3](/ppacya/slides/Dranowski-2022-03-04.pdf)
 - Bernard Leclerc, [**Generalized preprojective algebras**](/ppacya/abstracts/#bernard-leclerc)
-  - [Slide 1](/ppacya/slides/Leclerc-2022-03-02.pdf)
+  - [Slide 1](/ppacya/slides/Leclerc-2022-03-02.pdf), [Slide 2](/ppacya/slides/Leclerc-2022-03-04.pdf)
 - Akishi Ikeda, [**Calabi-Yau algebras and canonical bundles**](/ppacya/abstracts/#akishi-ikeda)
   - [Slide](/ppacya/slides/Ikeda-2022-03-03.pdf)
 - Kota Murakami, [**Deformed Cartan matrices and generalized preprojective algebras**](/ppacya/abstracts/#kota-murakami)

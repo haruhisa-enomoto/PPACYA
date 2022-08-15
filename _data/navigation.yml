@@ -8,6 +8,8 @@ main:
     url: /abstracts/
   - title: "Registration"
     url: /registration/
+  - title: "Seminar"
+    url: /seminar/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

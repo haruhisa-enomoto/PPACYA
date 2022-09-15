@@ -47,7 +47,7 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
 なお本ワークショップでは、参加者名簿を作成しています。作成した名簿は大阪公立大学数学研究所（OCAMI）に保管され、匿名化されたデータは文科省等の公的機関に提出されます。
 ご協力頂ける方は登録時の「Ocamiへの情報提供に同意する」の項目で「はい」を選択して下さい。
 
-https://omu-ac-jp.zoom.us/meeting/register/tJ0qcuqrrzwuEtZPSbqhkKSjpTaPAP187mQW
+<https://omu-ac-jp.zoom.us/meeting/register/tJ0qcuqrrzwuEtZPSbqhkKSjpTaPAP187mQW>
 
 また対面参加の会場は[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/)
 となります。

@@ -51,7 +51,6 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
 
 また対面参加の会場は[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/)
 となります。
-ただし感染対策の為参加人数が制限されており、希望者が多い場合には参加できない場合がございます。
 対面での参加をご希望の方は preprojective2022@gmail.com に
 
 1. お名前

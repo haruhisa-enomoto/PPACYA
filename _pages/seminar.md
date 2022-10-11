@@ -40,3 +40,6 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
   - Part I. Basics in cluster algebras. arXiv:2201.11371, v2:82 pages.
   - Part II. Cluster patterns and scattering diagrams, arXiv:2103.16309, v4:83 pages.
   - Part III. Cluster scattering diagrams, arXiv:2111.00800, v4:108 pages.
+
+## 講義ノート
+- [pdf (9MB)](/slides/Nakanishi-2022-10-12.pdf)

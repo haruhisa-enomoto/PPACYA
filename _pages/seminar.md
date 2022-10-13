@@ -24,7 +24,7 @@ OCAMI(大阪公立大学数学研究所)2022年度共同利用・共同研究の
 (時間は前後する可能性もあります)
 
 ## 場所
-[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/)にてハイブリッド開催
+[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/) C1 にてハイブリッド開催
 
 ## アブストラクト
 
@@ -52,8 +52,7 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
 
 <https://omu-ac-jp.zoom.us/meeting/register/tJ0qcuqrrzwuEtZPSbqhkKSjpTaPAP187mQW>
 
-また対面参加の会場は[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/)
-となります。
+また対面参加の会場は[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/) C1 となります。
 対面での参加をご希望の方は preprojective2022@gmail.com に
 
 1. お名前

@@ -41,8 +41,10 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
   - Part II. Cluster patterns and scattering diagrams, arXiv:2103.16309, v4:83 pages.
   - Part III. Cluster scattering diagrams, arXiv:2111.00800, v4:108 pages.
 
-## 講義ノート
-- [pdf (9MB)](/ppacya/slides/Nakanishi-2022-10-12.pdf)
+## 資料
+
+- [講義ノート ver.2022.10.17 pdf (9MB)](/ppacya/slides/Nakanishi-2022-10-12-2.pdf)
+- [講演動画 (YouTube)](https://www.youtube.com/playlist?list=PLUaQZo7wgmC_abnbDNkEvUmoWTUQ7VYcR)
 
 ## 参加登録について
 開催はオンラインと対面の両方で行いたいと思います。

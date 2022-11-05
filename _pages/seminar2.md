@@ -40,4 +40,5 @@ Gross-Hacking-Keel-Konstevish introduced theta bases as bases for cluster algebr
 Counting tropical curves by quiver representation
 
 *Abstract*:
+
 Mikhalkin established the correspondence between holomorphic curves and tropical curves on toric surfaces. The result is generalized by Nishinou and Siebert and many others. Tropical curve (disk) counts are then seen as the algebro-geometric analogue holomorphic disk countings in mirror symmetry. Together with Travis Mandel, we have developed a description of the counting in terms of quiver representations.

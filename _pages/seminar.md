@@ -12,6 +12,10 @@ OCAMI(大阪公立大学数学研究所)2022年度共同利用・共同研究の
 
 [中西 知樹](http://www.math.nagoya-u.ac.jp/~nakanisi/) (名古屋大学)
 
+## タイトル
+
+団散乱図入門
+
 ## 日程
 
 - 2022年10月12日(水) 16:30--18:00,
@@ -20,11 +24,7 @@ OCAMI(大阪公立大学数学研究所)2022年度共同利用・共同研究の
 (時間は前後する可能性もあります)
 
 ## 場所
-[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/)にてハイブリッド開催
-
-## タイトル
-
-団散乱図入門
+[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/) C1 にてハイブリッド開催
 
 ## アブストラクト
 
@@ -41,6 +41,11 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
   - Part II. Cluster patterns and scattering diagrams, arXiv:2103.16309, v4:83 pages.
   - Part III. Cluster scattering diagrams, arXiv:2111.00800, v4:108 pages.
 
+## 資料
+
+- [講義ノート ver.2022.10.17 pdf (9MB)](/ppacya/slides/Nakanishi-2022-10-12-2.pdf)
+- [講演動画 (YouTube)](https://www.youtube.com/playlist?list=PLUaQZo7wgmC_abnbDNkEvUmoWTUQ7VYcR)
+
 ## 参加登録について
 開催はオンラインと対面の両方で行いたいと思います。
 オンライン参加をご希望の方は以下からご登録お願い致します。
@@ -49,8 +54,7 @@ Cluster algebras and scattering diagrams, (preliminary draft for the forthcoming
 
 <https://omu-ac-jp.zoom.us/meeting/register/tJ0qcuqrrzwuEtZPSbqhkKSjpTaPAP187mQW>
 
-また対面参加の会場は[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/)
-となります。
+また対面参加の会場は[大阪公立大学 I-siteなんば](https://www.osakafu-u.ac.jp/isitenanba/) C1 となります。
 対面での参加をご希望の方は preprojective2022@gmail.com に
 
 1. お名前

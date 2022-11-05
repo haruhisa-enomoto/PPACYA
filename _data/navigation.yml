@@ -6,8 +6,6 @@ main:
     url: /program/
   - title: "Abstracts"
     url: /abstracts/
-  - title: "Registration"
-    url: /registration/
   - title: "Seminar"
     url: /seminar/
   - title: "Seminar 2"

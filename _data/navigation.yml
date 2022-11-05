@@ -10,6 +10,8 @@ main:
     url: /registration/
   - title: "Seminar"
     url: /seminar/
+  - title: "Seminar 2"
+    url: /seminar2/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

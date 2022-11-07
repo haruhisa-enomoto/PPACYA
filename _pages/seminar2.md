@@ -5,7 +5,7 @@ date: now
 classes: wide
 ---
 
-[Man Wai Cheung](https://sites.google.com/view/mandywai24/) will give lectures and a research talk.
+The seminar consists of 4 intensive lectures and 1 research talk. The goal of the lecture is to provide an introduction to theta functions, and understand why cluster variables are theta functions.
 
 ## Speaker
 

@@ -14,7 +14,7 @@ classes: wide
 ## Schedule (tentative)
 
 *Lectures*
-- 2022/12/7 (Wed) 15:30~16:30, 17:00~18:s00
+- 2022/12/7 (Wed) 15:30~16:30, 17:00~18:00
 - 2022/12/8 (Thu) 11:00~12:00, 13:30~14:30
 
 *Research talk*

@@ -7,8 +7,6 @@ classes: wide
 
 [Man Wai Cheung](https://sites.google.com/view/mandywai24/) will give lectures and a research talk.
 
-This seminar is one of [OCAMI Joint Usage/Research](https://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage_e.html).
-
 ## Speaker
 
 [Man Wai Cheung](https://sites.google.com/view/mandywai24/) (Kavli IPMU)
@@ -16,7 +14,7 @@ This seminar is one of [OCAMI Joint Usage/Research](https://www.sci.osaka-cu.ac.
 ## Schedule (tentative)
 
 *Lectures*
-- 2022/12/7 (Wed) 15:00~16:00, 16:30~17:30
+- 2022/12/7 (Wed) 15:30~16:30, 17:00~18:s00
 - 2022/12/8 (Thu) 11:00~12:00, 13:30~14:30
 
 *Research talk*
@@ -42,3 +40,7 @@ Counting tropical curves by quiver representation
 *Abstract*:
 
 Mikhalkin established the correspondence between holomorphic curves and tropical curves on toric surfaces. The result is generalized by Nishinou and Siebert and many others. Tropical curve (disk) counts are then seen as the algebro-geometric analogue holomorphic disk countings in mirror symmetry. Together with Travis Mandel, we have developed a description of the counting in terms of quiver representations.
+
+
+## Support
+Osaka Central Advanced Mathematical Institute ([MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage_e.html)) JPMXP0619217849.

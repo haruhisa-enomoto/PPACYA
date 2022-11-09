@@ -50,7 +50,7 @@ Online (Zoom):
 
 In-person:
 
-Please contact <preprojective2022@gmail.com>
+Please e-mail to the following address: <preprojective2022@gmail.com>
 
 ## Support
 Osaka Central Advanced Mathematical Institute ([MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage_e.html)) JPMXP0619217849.

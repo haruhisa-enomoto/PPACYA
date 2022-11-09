@@ -11,7 +11,7 @@ The seminar consists of 4 intensive lectures and 1 research talk. The goal of th
 
 [Man Wai Cheung](https://sites.google.com/view/mandywai24/) (Kavli IPMU)
 
-## Schedule (tentative)
+## Schedule
 
 *Lectures*
 - 2022/12/7 (Wed) 15:30~16:30, 17:00~18:00
@@ -41,6 +41,16 @@ Counting tropical curves by quiver representation
 
 Mikhalkin established the correspondence between holomorphic curves and tropical curves on toric surfaces. The result is generalized by Nishinou and Siebert and many others. Tropical curve (disk) counts are then seen as the algebro-geometric analogue holomorphic disk countings in mirror symmetry. Together with Travis Mandel, we have developed a description of the counting in terms of quiver representations.
 
+
+## Registration
+
+Online (Zoom):
+
+<https://omu-ac-jp.zoom.us/meeting/register/tJAqc-6qrDsqHd1liynMBStdgUfcxX2RkWam>
+
+In-person:
+
+Please contact <preprojective2022@gmail.com>
 
 ## Support
 Osaka Central Advanced Mathematical Institute ([MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage_e.html)) JPMXP0619217849.
